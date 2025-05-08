@@ -125,6 +125,10 @@ const API_SITES = {
         api: 'https://api.guangsuapi.com',
         name: '光速资源'
     },
+    mtzy: {
+        api: 'https://caiji.maotaizy.cc',
+        name: '茅台资源'
+    },
     
 };
 
