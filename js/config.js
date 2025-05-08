@@ -38,7 +38,7 @@ const API_SITES = {
     ckzy: {
         api: 'https://www.ckzy1.com',
         name: 'CK资源',
-        adult: false
+        adult: true
     },
     zy360: {
         api: 'https://360zy.com',
@@ -80,12 +80,12 @@ const API_SITES = {
     jkun: {
         api: 'https://jkunzyapi.com',
         name: 'jkun资源',
-        adult: false
+        adult: true
     },
     bwzy: {
         api: 'https://api.bwzym3u8.com',
         name: '百万资源',
-        adult: false
+        adult: true
     },
     souav: {
         api: 'https://api.souavzy.vip',
@@ -95,17 +95,17 @@ const API_SITES = {
     r155: {
         api: 'https://155api.com',
         name: '155资源',
-        adult: false
+        adult: true
     },
     lsb: {
         api: 'https://apilsbzy1.com',
         name: 'lsb资源',
-        adult: false
+        adult: true
     },
     huangcang: {
         api: 'https://hsckzy.vip',
         name: '黄色仓库',
-        adult: false,
+        adult: true,
         detail: 'https://hsckzy.vip'
     },
     zuid: {
@@ -115,7 +115,7 @@ const API_SITES = {
     yutu: {
         api: 'https://yutuzy10.com',
         name: '玉兔资源',
-        adult: false
+        adult: true
     },
     yinghua: {
         api: 'https://m3u8.apiyhzy.com',
