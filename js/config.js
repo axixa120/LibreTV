@@ -90,7 +90,7 @@ const API_SITES = {
     souav: {
         api: 'https://api.souavzy.vip',
         name: 'souav资源',
-        adult: false
+        adult: true
     },
     r155: {
         api: 'https://155api.com',
