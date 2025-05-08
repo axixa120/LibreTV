@@ -121,6 +121,11 @@ const API_SITES = {
         api: 'https://api.wujinapi.me',
         name: '无尽资源'
     },
+    guangsuzy: {
+        api: 'https://api.guangsuapi.com',
+        name: '光速资源'
+    },
+    
 };
 
 // 添加聚合搜索的配置选项
