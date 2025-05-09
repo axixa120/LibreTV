@@ -129,7 +129,66 @@ const API_SITES = {
         api: 'https://caiji.maotaizy.cc',
         name: '茅台资源'
     },
-    
+    subozy: {
+        api: 'https://subocaiji.com',
+        name: '速播资源'
+    },
+    suonizy: {
+        api: 'https://suoniapi.com',
+        name: '索尼资源'
+    },
+    ukuzy0: {
+        api: 'https://api.ukuapi88.com',
+        name: 'U酷资源'
+    },
+    xinlangzy: {
+        api: 'https://api.xinlangapi.com',
+        name: '新浪资源'
+    },
+    jinyingzy: {
+        api: 'https://jyzyapi.com',
+        name: '金鹰资源'
+    },
+    tuyuzy: {
+        api: 'https://apiyutu.com',
+        name: '兔玉资源'
+    },
+    wolongzy: {
+        api: 'https://collect.wolongzy.cc',
+        name: '卧龙资源'
+    },
+    kuaichezy: {
+        api: 'https://caiji.kuaichezy.org',
+        name: '快车资源'
+    },
+    semaozy4: {
+        api: 'https://caiji.semaozy.net',
+        name: '色猫资源'
+    },
+    taopianzy: {
+        api: 'https://taopianapi.com',
+        name: '淘片资源'
+    },
+    hongniuziyuan: {
+        api: 'https://www.hongniuzy2.com',
+        name: '红牛资源'
+    },
+    huyazy: {
+        api: 'https://www.huyaapi.com',
+        name: '虎牙资源'
+    },
+    xibaozyw: {
+        api: 'https://www.xxibaozyw.com',
+        name: '细胞网资源'
+    },
+    dyttzyw: {
+        api: 'http://caiji.dyttzyapi.com',
+        name: '电影天堂资源站'
+    },
+    sex8zy: {
+        api: 'https://xingba111.com',
+        name: '杏吧资源'
+    },
 };
 
 // 添加聚合搜索的配置选项
