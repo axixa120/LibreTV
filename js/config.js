@@ -89,6 +89,30 @@ const API_SITES = {
         api: 'https://api.bwzym3u8.com',
         name: '百万资源',
     },
+    fczy908: {
+        api: 'https://api.fczy888.me',
+        name: '蜂巢片库',
+    },
+    niuniuzy4: {
+        api: 'https://cj.yayazy.net',
+        name: '牛牛资源',
+    },
+    yayazy1: {
+        api: 'https://api.niuniuzy.me',
+        name: '鸭鸭资源',
+    },
+    yzzy: {
+        api: 'https://api.yzzy-api.com',
+        name: '优质资源',
+    },
+    shandianzy: {
+        api: 'https://xsd.sdzyapi.com',
+        name: '闪电资源网',
+    },
+    lzzy: {
+        api: 'https://cj.lziapi.com',
+        name: '量子资源站',
+    },
     souav: {
         api: 'https://api.souavzy.vip',
         name: 'souav资源',
@@ -157,6 +181,34 @@ const API_SITES = {
     tuyuzy: {
         api: 'https://apiyutu.com',
         name: '兔玉资源'
+    },
+    wuxianzy2: {
+        api: 'https://api.wuxianzy.net',
+        name: '无线资源'
+    },
+    huohua: {
+        api: 'https://cj.huohua.live',
+        name: '火花资源'
+    },
+    wwzy: {
+        api: 'https://api.wwzy.tv',
+        name: '旺旺资源'
+    },
+    jisuzy: {
+        api: 'https://jszyapi.com',
+        name: '极速资源'
+    },
+    haohuazy: {
+        api: 'https://hhzyapi.com',
+        name: '豪华资源'
+    },
+    baiwanzy4: {
+        api: 'https://api.bwzym3u8.com',
+        name: '百万资源网'
+    },
+    thzy8: {
+        api: 'https://thzy1.me',
+        name: '桃花资源'
     },
     wolongzy: {
         api: 'https://collect.wolongzy.cc',
