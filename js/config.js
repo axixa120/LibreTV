@@ -186,7 +186,7 @@ const API_SITES = {
         name: '电影天堂资源站'
     },
     sex8zy: {
-        api: 'https://xingba111.com',
+        api: 'https://xingba111.com/api.php/provide/vod/?ac=list',
         name: '杏吧资源'
     },
 };
