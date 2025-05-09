@@ -26,6 +26,11 @@ const API_SITES = {
         name: '黑木耳',
         detail: 'https://heimuer.tv',
     },
+    heimuer02: {
+        api: 'https://json02.heimuer.xyz',
+        name: '黑木耳国内',
+        detail: 'https://heimuer.tv',
+    },
     ffzy: {
         api: 'http://ffzy5.tv',
         name: '非凡影视',
@@ -186,7 +191,7 @@ const API_SITES = {
         name: '电影天堂资源站'
     },
     sex8zy: {
-        api: 'https://xingba111.com/api.php/provide/vod/?ac=list',
+        api: 'https://xingba111.com/api.php/provide/vod/at/xml',
         name: '杏吧资源'
     },
 };
