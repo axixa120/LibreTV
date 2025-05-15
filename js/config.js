@@ -77,6 +77,10 @@ const API_SITES = {
         api: 'https://www.mdzyapi.com',
         name: '魔都资源',
     },
+    hls: {
+        api: 'https://zy.hls.one',
+        name: '虾米资源',
+    },
     ruyi: {
         api: 'https://cj.rycjapi.com',
         name: '如意资源',
